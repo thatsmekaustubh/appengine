@@ -1,0 +1,2 @@
+
+python googleAppEngineSDK/google_appengine/dev_appserver.py --host $IP --port 8081 --admin_host $IP --admin_port 8082 projects/helloWorld
